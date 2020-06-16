@@ -1,0 +1,30 @@
+{
+  "name": "projectmongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongodb-session": "^2.3.2",
+    "csurf": "^1.11.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.5.0",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.15",
+    "multer": "^1.4.2",
+    "mysql2": "^2.1.0",
+    "nodemailer": "^6.4.8",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "pdfkit": "^0.11.0",
+    "sequelize": "^5.21.9",
+    "socket.io": "^2.3.0"
+  }
+}
